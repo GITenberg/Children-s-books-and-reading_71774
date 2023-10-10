@@ -1,0 +1,31 @@
+_repo: Children-s-books-and-reading_71774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moses, Montrose Jonas
+    alias: Moses, Montrose J.
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '4192'
+    url: http://www.gutenberg.org/2009/agents/4192
+    wikipedia: https://en.wikipedia.org/wiki/Montrose_Jonas_Moses
+description: ''
+gutenberg_issued: '2023-10-01'
+identifiers:
+  gutenberg: '71774'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc2.ark:/13960/t57d2tn15
+pgterms:marc905: 20230409201147moses
+pgterms:marc906: '1907'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Terry Jeffress and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bMitchell Kennerley, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Children's books and reading
+url: http://www.gutenberg.org/ebooks/71774
