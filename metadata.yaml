@@ -1,5 +1,8 @@
 _repo: Children-s-books-and-reading_71774
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71774-h/images/cover-t.jpg
 creator:
   author:
     agent_name: Moses, Montrose Jonas
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4192
     wikipedia: https://en.wikipedia.org/wiki/Montrose_Jonas_Moses
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71774#Children-s-books-and-reading
 gutenberg_issued: '2023-10-01'
 identifiers:
   gutenberg: '71774'
